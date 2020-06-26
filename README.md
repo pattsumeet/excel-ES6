@@ -1,16 +1,4 @@
-# Webpack Starter Kit project
-
-If you want to create a project using ES6 full features (including module export/import), 
-with SCSS and Bootstrap 4, with image optimization, this project maybe the best solution for you. 
-
-The project has the following features:
-
- - Compilation of ES6 into ES5
- - Converting SASS into CSS
- - Bootstrap 4
- - Image loading and optimization
- - Webpack dev server
- - HMR for hot reloading and faster development
+# Excel in ES6
  
 #### The project is production ready.
  
