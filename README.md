@@ -7,8 +7,6 @@
 2. Go to the project root directory
 3. Run `npm install`
 
-## Running on development using [dev server](https://github.com/webpack/webpack-dev-server)
-
 Run `npm run start:dev` to start to webpack dev server with HMR ready
 
 ## For production 
