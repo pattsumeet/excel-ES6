@@ -16,4 +16,3 @@ Run `npm run start:dev` to start to webpack dev server with HMR ready
 Run `npm run build` to build project's all assets in `dist` folder.
 
 ----------------------
-The project's initial version was created while recording this [youtube video](https://youtu.be/EpCz8bwtx5I)
